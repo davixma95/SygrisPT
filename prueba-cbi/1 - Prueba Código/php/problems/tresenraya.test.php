@@ -1,6 +1,6 @@
 <?php
 
-require_once './tresenraya.php'; // Ajusta la ruta según tu estructura de carpetas
+require_once './tresenraya.php'; 
 
 use PHPUnit\Framework\TestCase;
 
